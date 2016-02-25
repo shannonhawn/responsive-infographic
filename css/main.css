@@ -24,7 +24,7 @@ body {
 }
 
 svg {
-  width:100%;
+  width: 100%;
   margin: 0;
   padding: 0;
 }
@@ -145,7 +145,7 @@ svg {
 .licence .st23 {
   opacity: 0.58;
   fill: #a8ced7;
-  enable-background: new ;
+  enable-background: new;
 }
 
 .licence .st24 {
@@ -160,7 +160,7 @@ svg {
   stroke: #deb442;
   stroke-width: 2.3339;
   stroke-miterlimit: 10;
-  stroke-dasharray: 13.1549,13.1549;
+  stroke-dasharray: 13.1549, 13.1549;
 }
 
 .licence .st26 {
@@ -187,7 +187,7 @@ svg {
   stroke: #016838;
   stroke-width: 6.2178;
   stroke-miterlimit: 10;
-  enable-background: new ;
+  enable-background: new;
 }
 
 .licence .st31 {
@@ -215,7 +215,7 @@ svg {
 .commute .st0 {
   opacity: 0.58;
   fill: #a8ced7;
-  enable-background: new ;
+  enable-background: new;
 }
 
 .commute .st1 {
@@ -225,6 +225,7 @@ svg {
 .commute .st2 {
   fill: none;
 }
+
 .commute .st3 {
   fill: none;
   stroke: #dfb541;
@@ -237,7 +238,7 @@ svg {
   stroke: #dfb541;
   stroke-width: 2.3339;
   stroke-miterlimit: 10;
-  stroke-dasharray: 13.1549,13.1549;
+  stroke-dasharray: 13.1549, 13.1549;
 }
 
 .commute .st5 {
@@ -304,7 +305,7 @@ svg {
 .earth .st6 {
   opacity: 0.75;
   fill: #6ab445;
-  enable-background: new ;
+  enable-background: new;
 }
 
 .earth .st7 {
