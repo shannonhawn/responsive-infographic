@@ -240,14 +240,39 @@ svg {
   stroke-dasharray:13.1549,13.1549;
 }
 
-.commute .st5{fill:#5A5A5D;}
-.commute .st6{fill:#272660;}
-.commute .st7{fill:#DDC659;}
-.commute .st8{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
-.commute .st9{fill:#FFFFFF;}
-.commute .st10{fill:#DE573D;}
-.commute .st11{fill:#659F9C;}
-.commute .st12{fill:#A8CED7;}
+.commute .st5 {
+  fill:#5A5A5D;
+}
+
+.commute .st6 {
+  fill:#272660;
+}
+
+.commute .st7 {
+  fill:#DDC659;
+}
+
+.commute .st8 {
+  fill:none;
+  stroke:#FFFFFF;
+  stroke-miterlimit:10;
+}
+
+.commute .st9 {
+  fill:#FFFFFF;
+}
+
+.commute .st10 {
+  fill:#DE573D;
+}
+
+.commute .st11 {
+  fill:#659F9C;
+}
+
+.commute .st12 {
+  fill:#A8CED7;
+}
 
 
 .earth .st0{fill:#D7A17D;}
