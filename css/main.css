@@ -190,16 +190,56 @@ svg {
   enable-background:new ;
 }
 
-.licence .st31{fill:none;stroke:#231F20;stroke-width:1.9365;stroke-miterlimit:10;}
-.licence .st32{fill:none;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
-.licence .st33{fill:#29B673;}
-.licence .st34{fill:#016838;}
+.licence .st31 {
+  fill:none;
+  stroke:#231F20;
+  stroke-width:1.9365;
+  stroke-miterlimit:10;
+}
 
-.commute .st0{opacity:0.58;fill:#A8CED7;enable-background:new ;}
-.commute .st1{fill:#828182;}
-.commute .st2{fill:none;}
-.commute .st3{fill:none;stroke:#DFB541;stroke-width:2.3339;stroke-miterlimit:10;}
-.commute .st4{fill:none;stroke:#DFB541;stroke-width:2.3339;stroke-miterlimit:10;stroke-dasharray:13.1549,13.1549;}
+.licence .st32 {
+  fill:none;
+  stroke:#231F20;
+  stroke-width:2;
+  stroke-miterlimit:10;
+}
+
+.licence .st33 {
+  fill:#29B673;
+}
+
+.licence .st34 {
+  fill:#016838;
+}
+
+.commute .st0 {
+  opacity:0.58;
+  fill:#A8CED7;
+  enable-background:new ;
+}
+
+.commute .st1 {
+  fill:#828182;
+}
+
+.commute .st2 {
+  fill:none;
+}
+.commute .st3 {
+  fill:none;
+  stroke:#DFB541;
+  stroke-width:2.3339;
+  stroke-miterlimit:10;
+}
+
+.commute .st4 {
+  fill:none;
+  stroke:#DFB541;
+  stroke-width:2.3339;
+  stroke-miterlimit:10;
+  stroke-dasharray:13.1549,13.1549;
+}
+
 .commute .st5{fill:#5A5A5D;}
 .commute .st6{fill:#272660;}
 .commute .st7{fill:#DDC659;}
