@@ -274,18 +274,69 @@ svg {
   fill:#A8CED7;
 }
 
+.earth .st0 {
+  fill:#D7A17D;
+}
 
-.earth .st0{fill:#D7A17D;}
-.earth .st1{fill:#DE573D;}
-.earth .st2{fill:#659F9C;}
-.earth .st3{fill:none;}
-.earth .st4{fill:#FFFFFF;}
-.earth .st5{fill:none;stroke:#4D7E7A;stroke-width:1.3069;stroke-miterlimit:10;}
-.earth .st6{opacity:0.75;fill:#6AB445;enable-background:new ;}
-.earth .st7{fill:#E8E7E8;}
-.earth .st8{fill:#754E2A;}
-.earth .st9{fill:#FFFFFF;stroke:#272661;stroke-miterlimit:10;}
-.earth .st10{fill:#4D7E7A;}
-.earth .st11{fill:#E5252A;}
-.earth .st12{fill:#F36D26;}
-.earth .st13{fill:none;stroke:#272661;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+.earth .st1 {
+  fill:#DE573D;
+}
+
+.earth .st2 {
+  fill:#659F9C;
+}
+
+.earth .st3 {
+  fill:none;
+}
+
+.earth .st4 {
+  fill:#FFFFFF;
+}
+
+.earth .st5 {
+  fill:none;
+  stroke:#4D7E7A;
+  stroke-width:1.3069;
+  stroke-miterlimit:10;
+}
+
+.earth .st6 {
+  opacity:0.75;
+  fill:#6AB445;
+  enable-background:new ;
+}
+
+.earth .st7 {
+  fill:#E8E7E8;
+}
+
+.earth .st8 {
+  fill:#754E2A;
+}
+
+.earth .st9 {
+  fill:#FFFFFF;
+  stroke:#272661;
+  stroke-miterlimit:10;
+}
+
+.earth .st10 {
+  fill:#4D7E7A;
+}
+
+.earth .st11 {
+  fill:#E5252A;
+}
+
+.earth .st12 {
+  fill:#F36D26;
+}
+
+.earth .st13 {
+  fill:none;
+  stroke:#272661;
+  stroke-width:2;
+  stroke-linecap:round;
+  stroke-miterlimit:10;
+}
