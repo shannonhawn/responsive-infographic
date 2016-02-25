@@ -67,7 +67,7 @@ svg {
 }
 
 .licence .st8 {
-  fill:#ffffff;
+  fill:#fff;
   stroke:#282561;
   stroke-miterlimit:10;
 }
@@ -85,7 +85,7 @@ svg {
 }
 
 .licence .st12 {
-  fill:#ffffff;
+  fill:#fff;
 }
 
 .licence .st13 {
@@ -173,7 +173,7 @@ svg {
 
 .licence .st28 {
   fill:none;
-  stroke:#ffffff;
+  stroke:#fff;
   stroke-miterlimit:10;
 }
 
@@ -183,7 +183,7 @@ svg {
 
 .licence .st30 {
   opacity:0.78;
-  fill:#ffffff;
+  fill:#fff;
   stroke:#016838;
   stroke-width:6.2178;
   stroke-miterlimit:10;
@@ -254,12 +254,12 @@ svg {
 
 .commute .st8 {
   fill:none;
-  stroke:#ffffff;
+  stroke:#fff;
   stroke-miterlimit:10;
 }
 
 .commute .st9 {
-  fill:#ffffff;
+  fill:#fff;
 }
 
 .commute .st10 {
@@ -291,7 +291,7 @@ svg {
 }
 
 .earth .st4 {
-  fill:#ffffff;
+  fill:#fff;
 }
 
 .earth .st5 {
@@ -316,7 +316,7 @@ svg {
 }
 
 .earth .st9 {
-  fill:#ffffff;
+  fill:#fff;
   stroke:#272661;
   stroke-miterlimit:10;
 }
