@@ -62,10 +62,24 @@ svg {
   fill:#E7E7E8;
 }
 
-.licence .st7{fill:#754D29;}
-.licence .st8{fill:#FFFFFF;stroke:#282561;stroke-miterlimit:10;}
-.licence .st9{fill:#4B7D79;}
-.licence .st10{fill:#E72128;}
+.licence .st7 {
+  fill:#754D29;
+}
+
+.licence .st8 {
+  fill:#FFFFFF;
+  stroke:#282561;
+  stroke-miterlimit:10;
+}
+
+.licence .st9 {
+  fill:#4B7D79;
+}
+
+.licence .st10 {
+  fill:#E72128;
+}
+
 .licence .st11{fill:#F36C24;}
 .licence .st12{fill:#FFFFFF;}
 .licence .st13{fill:none;stroke:#282561;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
