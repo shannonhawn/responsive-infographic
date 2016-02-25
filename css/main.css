@@ -155,12 +155,41 @@ svg {
   stroke-miterlimit:10;
 }
 
-.licence .st25{fill:none;stroke:#DEB442;stroke-width:2.3339;stroke-miterlimit:10;stroke-dasharray:13.1549,13.1549;}
-.licence .st26{fill:#59595C;}
-.licence .st27{fill:#DDC659;}
-.licence .st28{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
-.licence .st29{fill:#A8CED7;}
-.licence .st30{opacity:0.78;fill:#FFFFFF;stroke:#016838;stroke-width:6.2178;stroke-miterlimit:10;enable-background:new ;}
+.licence .st25 {
+  fill:none;
+  stroke:#DEB442;
+  stroke-width:2.3339;
+  stroke-miterlimit:10;
+  stroke-dasharray:13.1549,13.1549;
+}
+
+.licence .st26 {
+  fill:#59595C;
+}
+
+.licence .st27 {
+  fill:#DDC659;
+}
+
+.licence .st28 {
+  fill:none;
+  stroke:#FFFFFF;
+  stroke-miterlimit:10;
+}
+
+.licence .st29 {
+  fill:#A8CED7;
+}
+
+.licence .st30 {
+  opacity:0.78;
+  fill:#FFFFFF;
+  stroke:#016838;
+  stroke-width:6.2178;
+  stroke-miterlimit:10;
+  enable-background:new ;
+}
+
 .licence .st31{fill:none;stroke:#231F20;stroke-width:1.9365;stroke-miterlimit:10;}
 .licence .st32{fill:none;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
 .licence .st33{fill:#29B673;}
