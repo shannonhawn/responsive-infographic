@@ -21,13 +21,13 @@ body {
   background-color: #aed380;
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 
 svg {
   width: 100%;
   margin: 0;
   padding: 0;
-  display: block;
 }
 
   .st0{
@@ -203,6 +203,13 @@ svg {
     fill:#016838;
   }
 
+  .roundcar {
+  transition: all .5s linear;
+}
+  .roundcar:hover {
+  fill: blue;
+}
+
   .eyes {
     animation: shiftyeyes 1.5s linear infinite;
   }
@@ -229,7 +236,7 @@ svg {
       transform: translate(0, 0);
     }
 
-    
+
 /*-----
 .licence .st0 {
   fill: #659f9c;
